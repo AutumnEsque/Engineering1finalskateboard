@@ -1,1 +1,2 @@
 # Engineering1finalskateboard
+This was my final project for my Engineering I class 2024-2025. I used an Arduino Uno, Arduino Nano, breadboards, two HC-05 modules, a joystick, Talon SR motor controller, a 12V motor and battery, two 9V batteries, and the physical board with wheels that I built. In the other files are the code that I uploaded to the HC-05 module programmed in master mode (transmitter) and the HC-05 programmed in slave mode (receiver).
